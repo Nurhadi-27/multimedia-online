@@ -3,7 +3,7 @@
 
 <h2>daftar praktikum multimedia online raihan(1800016107)</h2>
 
-<ul>
+<ul type="square">
   <li>praktikum1</li>
   <li>praktikum2</li>
   <li>praktikum3</li>
