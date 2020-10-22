@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1>multimedia-online Moh.Andrey Fan Afandi(1800016108)</h1>
+<h1>multimedia-online raihan 1800016107</h1>
 
 <p><a href="projek.html">PRAKTIKUM1</a></p>
 <p><a href="">PRAKTIKUM2</a></p>
