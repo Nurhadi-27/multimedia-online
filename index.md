@@ -3,8 +3,8 @@
 
 <h1>multimedia-online raihan 1800016107</h1>
 
-<p><a href="projek.html">PRAKTIKUM1</a></p>
-<p><a href="projek2.html">PRAKTIKUM2</a></p>
+<p><a href="projek.html">PRAKTIKUM1~canvas.html</a></p>
+<p><a href="projek2.html">PRAKTIKUM2~vector pattern</a></p>
 <p><a href="">PRAKTIKUM3</a></p>
 <p><a href="">PRAKTIKUM4</a></p>
 <p><a href="">PRAKTIKUM5</a></p>
