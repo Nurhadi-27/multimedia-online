@@ -6,8 +6,8 @@
 <p><a href="projek.html">PRAKTIKUM1~canvas.html</a></p>
 <p><a href="projek2.html">PRAKTIKUM2~vector pattern</a></p>
 <p><a href="praktikum3.html">PRAKTIKUM3~interactivitas</a></p>
-<p><a href="prak4/prak4.html">PRAKTIKUM4~puzzle</a></p>
-<p><a href="praktikum5.html">PRAKTIKUM5</a></p>
+<p><a href="prak4/prak4.html">PRAKTIKUM4~puzzle project</a></p>
+<p><a href="praktikum5.html">PRAKTIKUM5~motion tween</a></p>
 <p><a href="">PRAKTIKUM6</a></p>
 <p><a href="">PRAKTIKUM7</a></p>
 <p><a href="">PRAKTIKUM8</a></p>
