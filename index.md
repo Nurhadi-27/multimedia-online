@@ -9,7 +9,7 @@
 <p><a href="prak4/prak4.html">PRAKTIKUM4~puzzle project</a></p>
 <p><a href="praktikum5.html">PRAKTIKUM5~motion tween</a></p>
 <p><a href="">PRAKTIKUM6</a></p>
-<p><a href="prak7/praktikum7.html">PRAKTIKUM7-audio visualizer</a></p>
+<p><a href="prak 7/praktikum7.html">PRAKTIKUM7-audio visualizer</a></p>
 <p><a href="">PRAKTIKUM8</a></p>
 <p><a href="">PRAKTIKUM9</a></p>
 <p><a href="">PRAKTIKUM10</a></p>
