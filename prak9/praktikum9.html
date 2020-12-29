@@ -23,7 +23,7 @@
 		function startApp() {
 			btn = document.getElementById('btn');
 			avatar = new Image();
-			avatar.src = 'gambar.jpg';
+			avatar.src = 'assets/gambar.jpg';
 			myApp.start();
 			img = new image(0, 0);
 			rect = new rectComponent(0, 0, 1, 1);
@@ -32,8 +32,8 @@
 		var myApp = {
 			canvas: document.createElement("canvas"),
 			start: function () {
-				this.canvas.width = 1920;
-				this.canvas.height = 1200;
+				this.canvas.width = 900;
+				this.canvas.height = 600;
 				this.context = this.canvas.getContext("2d");
 				document.body.insertBefore(this.canvas,
 					document.body.childNodes[0]);
@@ -98,7 +98,7 @@
 			imageWidth=cropWidth,
 			imageHeight=cropHeight;
 			var imageSource=new Image();
-			imageSource.src='gambar.jpg';
+			imageSource.src='minion.jpg';
 			ctx.drawImage(imageSource,cropStartX,cropStartY,cropWidth,cropHeight,
 			imageX,imageY,imageWidth,imageHeight);
 			*/
