@@ -12,7 +12,7 @@
 <p><a href="prak 7/praktikum7.html">PRAKTIKUM7-audio visualizer</a></p>
 <p><a href="praktikum8.html">PRAKTIKUM8-online audio recording </a></p>
 <p><a href="prak9/praktikum9">PRAKTIKUM9-image manipulating</a></p>
-<p><a href="">PRAKTIKUM10</a></p>
+<p><a href="praktikum10.html">PRAKTIKUM10-online photo capturing</a></p>
 
 
 
