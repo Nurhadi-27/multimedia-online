@@ -13,6 +13,7 @@
 <p><a href="praktikum8.html">PRAKTIKUM8-online audio recording </a></p>
 <p><a href="prak9/praktikum9">PRAKTIKUM9-image manipulating</a></p>
 <p><a href="praktikum10.html">PRAKTIKUM10-online photo capturing</a></p>
+<p><a href="animasi/index.html">RESPONSI</a></p>
 
 
 
